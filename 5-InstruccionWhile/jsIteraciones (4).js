@@ -8,6 +8,7 @@ while ( numero < 0 || numero > 10 )
     	numero = prompt("Error. Ingrese un numero de 1 al 10: ");
 	}
 
+
 document.getElementById("Numero").value = numero;
 
 
