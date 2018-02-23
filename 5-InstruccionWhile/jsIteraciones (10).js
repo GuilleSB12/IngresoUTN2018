@@ -1,17 +1,25 @@
 function Mostrar()
 {
 
-	var contador=0;
-	//declarar contadores y variables 
-	
-	var respuesta="si";
+	var numero;
+	var seguir;
+	var diferncia;
+	var promedioPos;
+	var promedioNeg;
+	var acumuladorNeg;
+	var acumuladorPos;
+	var contadorPos;
+	var contadorNeg;
 
-	while(respuesta!="no")
+	do
 	{
-		
-	
-	}
 
+		
+
+
+
+
+	} while ( seguir == 'si' );
 
 
 
