@@ -8,6 +8,7 @@ function Mostrar()
 
     perimetro = lado * 3;
 
+    
     alert("El perimetro es " + perimetro);
 	
 }
